@@ -6,7 +6,10 @@ We will be solving a simple problem where we are generating a sine wave and prov
 Recurrent neural networks can remember the state of an input from previous time-steps which helps it to take a decision for the future time-step. Watch the animation below carefully, and make sure you understand it.(Shoutout to iamtrask blog.)
 ![recurrence_gif](https://user-images.githubusercontent.com/28685502/42218832-702c9104-7ee7-11e8-9ffe-a57e93e3ebe8.gif)
 
+
 We generate a batch of the values on a sine wave to test our model.
+
+
 ![sine2_copy](https://user-images.githubusercontent.com/28685502/42218834-7061fa56-7ee7-11e8-901d-d598b00a2e38.png)
 
 
